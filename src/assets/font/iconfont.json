@@ -1,0 +1,51 @@
+{
+  "id": "5135231",
+  "name": "肥城即时通讯",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "11882884",
+      "name": "bg-group",
+      "font_class": "bg-group",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "791886",
+      "name": "会话",
+      "font_class": "huihua-copy",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "2742660",
+      "name": "视频",
+      "font_class": "shipin",
+      "unicode": "e677",
+      "unicode_decimal": 58999
+    },
+    {
+      "icon_id": "10463899",
+      "name": "音频",
+      "font_class": "yinpin",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "11372711",
+      "name": "图片",
+      "font_class": "tupian",
+      "unicode": "e8ba",
+      "unicode_decimal": 59578
+    },
+    {
+      "icon_id": "11882911",
+      "name": "bg-maillist",
+      "font_class": "bg-maillist",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    }
+  ]
+}
